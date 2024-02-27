@@ -1,2 +1,4 @@
-package pl.javaready.AuthorArticleRetriever;public class AuthorArticleRetrieverFacade {
+package pl.javaready.AuthorArticleRetriever;
+
+public class AuthorArticleRetrieverFacade {
 }

@@ -1,2 +1,4 @@
-package pl.javaready.relatedArticleFinder;public class RelatedArticleFinderFacade {
+package pl.javaready.relatedArticleFinder;
+
+public class RelatedArticleFinderFacade {
 }

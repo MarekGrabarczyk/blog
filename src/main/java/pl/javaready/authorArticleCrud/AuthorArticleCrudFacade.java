@@ -1,2 +1,4 @@
-package pl.javaready.authorArticleCrud;public class AuthorArticleCrudFacade {
+package pl.javaready.authorArticleCrud;
+
+public class AuthorArticleCrudFacade {
 }

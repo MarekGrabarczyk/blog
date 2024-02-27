@@ -1,2 +1,4 @@
-package pl.javaready.articleCounter;public class ArticleCounterService {
+package pl.javaready.articleCounter;
+
+class ArticleCounterService {
 }
